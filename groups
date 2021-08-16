@@ -1,3 +1,4 @@
 # UUID                  	Group Name
 #
+global:Registered-Users 	Registered Users
 mdb:gerritcodereview-eng	mdb/gerritcodereview-eng
