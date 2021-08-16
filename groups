@@ -1,4 +1,5 @@
 # UUID                  	Group Name
 #
+global:Project-Owners   	Project Owners
 global:Registered-Users 	Registered Users
 mdb:gerritcodereview-eng	mdb/gerritcodereview-eng
