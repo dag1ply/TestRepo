@@ -1,5 +1,3 @@
-# UUID                                                        	Group Name
+# UUID                  	Group Name
 #
-global:Project-Owners                                         	Project Owners
-google:AI2Pq9rwJtXWrKQ9Q62CcHSid7ngIF2hCfJ4bSpVquX_P2z5kFM6v9s	google/gerritcodereview-maintainers@googlegroups.com
-mdb:gerritcodereview-eng                                      	mdb/gerritcodereview-eng
+mdb:gerritcodereview-eng	mdb/gerritcodereview-eng
