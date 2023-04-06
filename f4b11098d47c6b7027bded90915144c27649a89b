@@ -16,6 +16,42 @@
       "message": "Test comment",
       "revId": "f4b11098d47c6b7027bded90915144c27649a89b",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "30ed90b7_5d7bffe9",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1156270
+      },
+      "writtenOn": "2023-04-06T09:03:09Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "312d8e9b_5bbb700e",
+      "revId": "f4b11098d47c6b7027bded90915144c27649a89b",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ed891c23_60867041",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1156270
+      },
+      "writtenOn": "2023-04-06T09:03:09Z",
+      "side": 1,
+      "message": "\u003e Test comment`",
+      "parentUuid": "312d8e9b_5bbb700e",
+      "revId": "f4b11098d47c6b7027bded90915144c27649a89b",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
   ],
   "submitRequirementResults": [
