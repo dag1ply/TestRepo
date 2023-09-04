@@ -1,6 +1,23 @@
 {
   "comments": [
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "3f3860a8_e259b08c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1164680
+      },
+      "writtenOn": "2023-09-04T16:54:20Z",
+      "side": 1,
+      "message": "https://onlinesalesandmarketing.myshopify.com",
+      "revId": "18559ff82ae2202b20eed7b2e5c7e9155d9aa5ed",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "2368abd4_8ef9888a",
