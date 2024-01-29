@@ -1,5 +1,23 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0735b633_7916e097",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3281105
+      },
+      "writtenOn": "2024-01-29T21:26:11Z",
+      "side": 1,
+      "message": "docker pull gerritforge/gerrit-ci-agent-bazel-docker",
+      "revId": "4fc840e4ff80e0775beb9cea401d0aef6f0a11d2",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ],
   "submitRequirementResults": [
     {
       "submitRequirement": {
