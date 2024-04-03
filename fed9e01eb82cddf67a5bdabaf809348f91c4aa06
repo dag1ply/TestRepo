@@ -16,6 +16,23 @@
       "message": "My first gerrit cl review",
       "revId": "fed9e01eb82cddf67a5bdabaf809348f91c4aa06",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0a1859cf_c08b68ec",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1077359
+      },
+      "writtenOn": "2024-04-03T20:45:14Z",
+      "side": 1,
+      "message": "Review this asap.",
+      "revId": "fed9e01eb82cddf67a5bdabaf809348f91c4aa06",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
   ]
 }
