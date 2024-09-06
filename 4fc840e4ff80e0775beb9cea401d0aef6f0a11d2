@@ -16,6 +16,23 @@
       "message": "docker pull gerritforge/gerrit-ci-agent-bazel-docker",
       "revId": "4fc840e4ff80e0775beb9cea401d0aef6f0a11d2",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6b4819a8_b1169f63",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1151222
+      },
+      "writtenOn": "2024-09-06T15:26:23Z",
+      "side": 1,
+      "message": "nguyenhien0650@gmail.com",
+      "revId": "4fc840e4ff80e0775beb9cea401d0aef6f0a11d2",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
   ],
   "submitRequirementResults": [
