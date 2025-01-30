@@ -1,1 +1,7 @@
+<<<<<<< PATCH SET (5f0314 Change 2)
+BBB some other content
+||||||| BASE
+some other content
+=======
 AAA some other content
+>>>>>>> BASE      (cc74c8 Change 1)
