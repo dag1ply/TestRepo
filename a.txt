@@ -1,1 +1,4 @@
 AAA some other content diff
+BanMeNowPlease
+BanMeTooPlease
+foo bar
