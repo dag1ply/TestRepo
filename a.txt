@@ -1,1 +1,1 @@
-AAA some other content diff
+changing text for a merge conflict

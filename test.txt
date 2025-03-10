@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+some content
+=======
 other content
+>>>>>>> master
