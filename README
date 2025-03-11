@@ -1,0 +1,3 @@
+```
+for x in {a..z}; do curl http://metaphorpsum.com/sentences/100 | fold -w 80 -s > $x.txt; echo "" >> $x.txt; done
+```
