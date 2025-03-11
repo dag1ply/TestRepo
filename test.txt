@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 other content
+=======
+some content
+>>>>>>> origin/stable
