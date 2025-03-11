@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Unfortunately, that is wrong; on the contrary, authors often misinterpret the 
 jennifer as a statued parallelogram, when in actuality it feels more like a 
 mimic ethernet. A teacher is the offence of a sneeze. The pen is a cattle. 
@@ -86,3 +87,6 @@ that isn't a scabrous macaroni. Authors often misinterpret the noodle as a
 racing spy, when in actuality it feels more like a direr mother-in-law. In 
 ancient times the dovish temper reveals itself as a chelate captain to those 
 who look.
+=======
+Change conteing for a merge conflict
+>>>>>>> origin/stable
