@@ -1,5 +1,23 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f54ac075_5a2af232",
+        "filename": "a.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2025-04-09T07:37:10Z",
+      "side": 1,
+      "message": "dcd",
+      "revId": "631632ab8c5a36e9e1e79300347e887d7eeb1643",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ],
   "submitRequirementResults": [
     {
       "submitRequirement": {
