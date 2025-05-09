@@ -39,6 +39,23 @@
       "message": "aa",
       "revId": "06e75ef11ebdefdd90166dfac1bff48245200000",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "22db699f_23894a38",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1083225
+      },
+      "writtenOn": "2025-05-09T15:16:53Z",
+      "side": 1,
+      "message": "aaa",
+      "revId": "06e75ef11ebdefdd90166dfac1bff48245200000",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
   ]
 }
