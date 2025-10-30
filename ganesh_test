@@ -1,1 +1,2 @@
-test file added by Ganesh
+# This is a basic Python program
+print("Hello, World!")
